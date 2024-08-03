@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omsrivastava
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Vue.js, PHP and Angular
+- 💞️ I’m looking to collaborate on Vue.js, PHP and Python
 - 📫 Reach me out on [Linkedin](https://www.linkedin.com/in/om-srivastava-b56267b7)
 
 <!---
